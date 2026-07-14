@@ -106,7 +106,7 @@ a {
 .hero {
   position: relative;
   min-height: 82vh;
-  background: url("bilder/hero.jpg") center 35% / cover no-repeat;
+  background: url("bilder/hero.JPG") center 35% / cover no-repeat;
   display: flex;
   align-items: center;
   justify-content: center;
