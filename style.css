@@ -747,3 +747,9 @@ a {
     font-size: 2rem;
   }
 }
+
+.molly2-full {
+  object-fit: contain !important;
+  background: #f3f0e8;
+}
+
